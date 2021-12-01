@@ -1,0 +1,54 @@
+
+.main .title {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.main .title h2 {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.main .title p {
+    margin: 10px 0;
+    font-size: 0.9rem;
+}
+
+.main .info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main .info h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.main .info img {
+    margin: 20px 50px 20px 0; 
+   max-height: 350px;
+    border-radius: 9999px;
+}
+
+.main .info .about  {
+    margin: 20px 0;
+}
+.main .info .about p {
+    margin: 10px;
+}
+.main .info .skills {
+    margin: 20px 0;
+    text-align: center;
+}
+.main .info .skills .skill {
+    display: inline-block;
+    margin: 30px;
+}
+
+.main .info .skills .skill img {
+    width:100px;
+    margin: 0 auto;
+}
+
